@@ -37,7 +37,7 @@ variable "main_project" {
 
 variable "sub_project" {
     type  = string
-    default = "009"
+    default = "025"
 }
 
 variable "location" {
